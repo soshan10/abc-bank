@@ -28,6 +28,16 @@ namespace abc_bank
             return this;
         }
 
+        public void TransferAmount(Account source, Account destination, double amount)
+        {
+            if (source.CheckIfAmtAvailableInAccount(amount))
+            {
+                source.Withdraw(amount);
+                destination.Deposit(amount);
+            }
+        }
+
+
         public int GetNumberOfAccounts()
         {
             return accounts.Count;
@@ -46,6 +56,14 @@ namespace abc_bank
             double total = 0;
             foreach (Account a in accounts)
                 total += a.InterestEarned();
+            return total;
+        }
+
+        public double TotalAmount()
+        {
+            double total = 0;
+            foreach (Account a in accounts)
+                total += a.sumTransactions();
             return total;
         }
 
