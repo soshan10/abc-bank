@@ -5,3 +5,10 @@ C:\Users\luce\Desktop\abc-bank-master\abc-bank-master\abc-bank-dotnet\abc-bank\a
 C:\Users\luce\Desktop\abc-bank-master\abc-bank-master\abc-bank-dotnet\abc-bank\abc-bank-tests\obj\Debug\abc-bank-tests.csprojResolveAssemblyReference.cache
 C:\Users\luce\Desktop\abc-bank-master\abc-bank-master\abc-bank-dotnet\abc-bank\abc-bank-tests\obj\Debug\abc-bank-tests.dll
 C:\Users\luce\Desktop\abc-bank-master\abc-bank-master\abc-bank-dotnet\abc-bank\abc-bank-tests\obj\Debug\abc-bank-tests.pdb
+E:\Projects\github\abc-bank\abc-bank-tests\bin\Debug\abc-bank-tests.dll
+E:\Projects\github\abc-bank\abc-bank-tests\bin\Debug\abc-bank-tests.pdb
+E:\Projects\github\abc-bank\abc-bank-tests\bin\Debug\abc-bank.dll
+E:\Projects\github\abc-bank\abc-bank-tests\bin\Debug\abc-bank.pdb
+E:\Projects\github\abc-bank\abc-bank-tests\obj\Debug\abc-bank-tests.csprojResolveAssemblyReference.cache
+E:\Projects\github\abc-bank\abc-bank-tests\obj\Debug\abc-bank-tests.dll
+E:\Projects\github\abc-bank\abc-bank-tests\obj\Debug\abc-bank-tests.pdb
