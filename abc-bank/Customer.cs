@@ -33,6 +33,14 @@ namespace abc_bank
             return accounts.Count;
         }
 
+        public double TotalInterestEarned(DateTime asOf)
+        {
+            double total = 0;
+            foreach (Account a in accounts)
+                total += a.InterestEarned(asOf);
+            return total;
+        }
+
         public double TotalInterestEarned() 
         {
             double total = 0;

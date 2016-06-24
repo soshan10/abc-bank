@@ -12,6 +12,10 @@ namespace abc_bank
 
         private DateTime transactionDate;
 
+        public DateTime TransactionDate
+        {
+            get { return transactionDate; }
+        }
         public Transaction(double amount) 
         {
             this.amount = amount;
